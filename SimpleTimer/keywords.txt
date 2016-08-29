@@ -1,0 +1,6 @@
+SimpleTimer	KEYWORD1
+start	KEYWORD2
+stop	KEYWORD2
+setInterval	KEYWORD2
+isReady	KEYWORD2
+getRunStatus	KEYWORD2
