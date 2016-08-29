@@ -1,0 +1,10 @@
+LineCamera	KEYWORD1
+capture	KEYWORDS2
+getCameraValue	KEYWORDS2
+getEdgePos	KEYWORDS2
+getExposure	KEYWORDS2
+setExposure	KEYWORDS2
+setEdgeThreshold	KEYWORDS2
+getEdgeThreshold	KEYWORDS2
+setBackground	KEYWORDS2
+getBackground	KEYWORDS2
